@@ -1,34 +1,25 @@
 {
-  "posts": [
+  "ad1":[
     {
-      "id": 1,
-      "title": "SnapMath -Snap Pictures and Solve Doubts Instantly",
-      "description": "https://play.google.com/store/apps/details?id=com.microblink.photomath.homework.solve.bagatrix.mathway.math.photo"
+      "des": "All the info you watch free Indian TV channels in Assamese, Bengali, Bhojpuri, English, Gujarati, Hindi, Kannada, Maithili, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu and Urdu languages.",
+      "banner": "https://play-lh.googleusercontent.com/2aH6NPEmoWsQbdZ8nYg0fQi4M1JcPqVnAuCswlZ2jEpr0QA1kgVpWDomFJqRCDw8MYj-=w720-h310-rw",
+      "image_path": "https://play-lh.googleusercontent.com/F6HilJLuH6nMzO9uYRfBdg58xWE8_ObWKQtmpVefxbCCkb2Hm9H-IX27PF3iWxqu7A=s180-rw",
+      "ads_name": "Bank Balance Check & All Bank",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.bankbalance.bbcinstantbankbalancechecker"
     },
     {
-      "id": 2,
-      "title": "Call Recorder - Automatic Call Recorder 2021",
-      "description": "https://play.google.com/store/apps/details?id=com.call.recorder.automatic.callrecorder.autocallrecorder.callrecorder"
+      "des": "All the info you watch free Indian TV channels in Assamese, Bengali, Bhojpuri, English, Gujarati, Hindi, Kannada, Maithili, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu and Urdu languages.",
+      "banner": "https://play-lh.googleusercontent.com/2aH6NPEmoWsQbdZ8nYg0fQi4M1JcPqVnAuCswlZ2jEpr0QA1kgVpWDomFJqRCDw8MYj-=w720-h310-rw",
+      "image_path": "https://play-lh.googleusercontent.com/7nI-1EFCzS_S69JE39OgK_VsZuQP_hQTWBjLwUxOmm3zC8zyEIGKztxtpMgNMTKVc3c=s180-rw",
+      "ads_name": "Learn C++",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.sololearn.cplusplus.cpp.programming"
     },
     {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
+      "des": "All the info you watch free Indian TV channels in Assamese, Bengali, Bhojpuri, English, Gujarati, Hindi, Kannada, Maithili, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu and Urdu languages.",
+      "banner": "https://play-lh.googleusercontent.com/2aH6NPEmoWsQbdZ8nYg0fQi4M1JcPqVnAuCswlZ2jEpr0QA1kgVpWDomFJqRCDw8MYj-=w720-h310-rw",
+      "image_path": "https://play-lh.googleusercontent.com/7nI-1EFCzS_S69JE39OgK_VsZuQP_hQTWBjLwUxOmm3zC8zyEIGKztxtpMgNMTKVc3c=s180-rw",
+      "ads_name": "Learn C++",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.sololearn.cplusplus.cpp.programming"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+    ]
 }
